@@ -1,0 +1,3 @@
+local player = game.Players.localPlayer
+
+player:kick("You been kick for being retart kicked by: "..player.name)
